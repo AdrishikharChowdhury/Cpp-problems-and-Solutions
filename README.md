@@ -162,7 +162,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 If you have any questions or suggestions, feel free to reach out at:
 - **Email**: amiadrishikhar@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/AdrishikharChowdhury)
+- **GitHub**: [Adrishikhar Chowdhury](https://github.com/AdrishikharChowdhury)
 
 ---
 
