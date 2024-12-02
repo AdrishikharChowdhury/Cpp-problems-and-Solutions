@@ -58,5 +58,10 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "ostream": "cpp"
-  }
+  },
+  "cSpell.words": [
+    "Adrishikhar",
+    "Chowdhury"
+  ],
+  "C_Cpp.default.compilerPath": "c:\\Users\\amiad\\OneDrive\\Desktop\\programming\\C++\\Lecture-02\\code.cpp"
 }

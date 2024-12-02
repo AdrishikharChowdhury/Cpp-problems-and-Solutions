@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     char c;
-    cout<<"Enter a Letter: ";
+    cout<<"Enter a Letter: "<<endl;
     cin>>c;
     int C=c;
     if(C>=65 && C<=90){
