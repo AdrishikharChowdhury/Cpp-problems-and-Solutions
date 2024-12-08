@@ -63,7 +63,9 @@
   "cSpell.words": [
     "Adrishikhar",
     "Chowdhury",
-    "Ofdigits"
+    "Ofdigits",
+    "reverdo"
   ],
-  "C_Cpp.default.compilerPath": "c:\\Users\\amiad\\OneDrive\\Desktop\\programming\\C++\\Lecture-02\\code.cpp"
+  "C_Cpp.default.compilerPath": "c:\\Users\\amiad\\OneDrive\\Desktop\\programming\\C++\\Lecture-02\\code.cpp",
+  "C_Cpp.errorSquiggles": "disabled"
 }
