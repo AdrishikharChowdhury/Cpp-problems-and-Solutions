@@ -59,7 +59,9 @@
   "files.associations": {
     "ostream": "cpp",
     "iostream": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "leetcode-852": "cpp",
+    "algorithm": "cpp"
   },
   "cSpell.words": [
     "Adrishikhar",
