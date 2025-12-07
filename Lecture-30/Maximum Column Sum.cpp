@@ -33,17 +33,14 @@ int main() {
     return 0;
 }
 
-int maxColSum(vector<vector<int>>& matrix,int rows,int cols)
-{
-    int i,j,colSum,maxcolSum=INT_MIN;
-    for(i=0;i<rows;i++)
-    {
-        colSum=0;
-        for(j=0;j<cols;j++)
-        {
-            colSum+=matrix[j][i];
+int maxColSum(vector<vector<int>>& matrix, int rows, int cols) {
+    int i, j, colSum, maxcolSum = INT_MIN;
+    for (j = 0; j < cols; j++) { // Iterate over columns
+        colSum = 0;
+        for (i = 0; i < rows; i++) { // Iterate over rows for each column
+            colSum += matrix[i][j];
         }
-        maxcolSum=max(maxcolSum,colSum);
+        maxcolSum = max(maxcolSum, colSum);
     }
     return maxcolSum;
 }
